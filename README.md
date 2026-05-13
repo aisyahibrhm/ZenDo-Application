@@ -1,2 +1,2 @@
 # ZenDo-Application
-Task manager app developed using Flutter.
+Task manager app developed using Android Studio (Flutter)
